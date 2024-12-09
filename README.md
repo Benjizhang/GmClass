@@ -6,7 +6,7 @@ This repository is the source code and dataset ***GM10-ts*** of the paper "A Joi
 * Project: https://sites.google.com/view/gmwork2/ftlearning
 
 ## News
-The raw data for 10 particles (500 instances per GM) has been updated. 
+The raw data for 10 particles (500 instances per GM) has been uploaded (i.e., ***GM10-ts***).  
 
 ## Test Environment
 * Window 11
