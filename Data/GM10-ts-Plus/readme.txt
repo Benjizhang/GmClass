@@ -1,1 +1,1 @@
-The dataset GM10-ts-Plus (140M) is available on https://drive.google.com/drive/folders/1OD486IJhL6q6i-eO-6YkeIdy4d2zHjE-?usp=drive_link
+The dataset GM10-ts-Plus (140M) is available on https://drive.google.com/file/d/1QrVSEzT4k6Sjbca-5nxCVEREC27xLB91/view?usp=sharing
