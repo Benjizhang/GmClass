@@ -1,12 +1,14 @@
 # GmClass
- A multimodal classifier with a force-text pair from robot-GM interaction.
+ A multimodal classifier with a force-text pair from the interaction between the robotic arm and granular materials (GMs).
  
 This repository contains the source code and dataset ***GM10-ts*** and ***GM10-ts-Plus*** of the paper "A Joint Learning of Force Feedback of Robotic Manipulation and Textual Cues for Granular Material Classification," which is under review for RA-L.
 
 * Project: https://sites.google.com/view/gmwork2/ftlearning
 
 ## News
-A comprehensive dataset ***GM10-ts-Plus*** (10GMs, 27,000 data points) has been uploaded.
+A comprehensive dataset ***GM10-ts-Plus*** (10 GMs, 27,000 data points) has been uploaded.
+
+![Data collection for GM10-ts-Plus dataset](./Fig/setup.jpg)
 
 ## Test Environment
 * Ubuntu 20.04 or Windows 11
